@@ -8,7 +8,7 @@
 
 ### 1.2. Tools used
 
-**Enumeration** &rarr; `nmap`.
+**Enumeration** &rarr; `nmap`, `msf`.
 
 **Exploitation** &rarr; `msf`.
 

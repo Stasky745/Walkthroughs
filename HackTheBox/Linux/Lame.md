@@ -8,9 +8,9 @@
 
 ### 1.2. Tools used
 
-**Enumeration** &rarr; ``.
+**Enumeration** &rarr; `nmap`.
 
-**Exploitation** &rarr; ``.
+**Exploitation** &rarr; `msf`.
 
 ## 2. Walkthrough
 
