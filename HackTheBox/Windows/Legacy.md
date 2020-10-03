@@ -10,6 +10,8 @@
 
 **Enumeration** &rarr; `nmap`.
 
+**Exploitation** &rarr; `msf`.
+
 ## 2. Walkthrough
 
 ### 2.1. Enumeration
