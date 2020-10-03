@@ -20,7 +20,7 @@
 Search with `nmap`:
 
 ```bash
-
+nmap -A -p- -T4 10.10.10.3
 ```
 
 ##### 2.1.1.1. Ports
